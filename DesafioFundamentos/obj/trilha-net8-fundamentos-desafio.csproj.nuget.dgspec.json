@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\dev\\dio\\projetos\\trilha-net8-fundamentos-desafio\\DesafioFundamentos\\trilha-net8-fundamentos-desafio.csproj": {}
+    "c:\\dev\\dio\\projetos\\trilha-net8-fundamentos-desafio\\DesafioFundamentos\\trilha-net8-fundamentos-desafio.csproj": {}
   },
   "projects": {
-    "C:\\dev\\dio\\projetos\\trilha-net8-fundamentos-desafio\\DesafioFundamentos\\trilha-net8-fundamentos-desafio.csproj": {
+    "c:\\dev\\dio\\projetos\\trilha-net8-fundamentos-desafio\\DesafioFundamentos\\trilha-net8-fundamentos-desafio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\dev\\dio\\projetos\\trilha-net8-fundamentos-desafio\\DesafioFundamentos\\trilha-net8-fundamentos-desafio.csproj",
+        "projectUniqueName": "c:\\dev\\dio\\projetos\\trilha-net8-fundamentos-desafio\\DesafioFundamentos\\trilha-net8-fundamentos-desafio.csproj",
         "projectName": "trilha-net8-fundamentos-desafio",
-        "projectPath": "C:\\dev\\dio\\projetos\\trilha-net8-fundamentos-desafio\\DesafioFundamentos\\trilha-net8-fundamentos-desafio.csproj",
+        "projectPath": "c:\\dev\\dio\\projetos\\trilha-net8-fundamentos-desafio\\DesafioFundamentos\\trilha-net8-fundamentos-desafio.csproj",
         "packagesPath": "C:\\Users\\yago\\.nuget\\packages\\",
-        "outputPath": "C:\\dev\\dio\\projetos\\trilha-net8-fundamentos-desafio\\DesafioFundamentos\\obj\\",
+        "outputPath": "c:\\dev\\dio\\projetos\\trilha-net8-fundamentos-desafio\\DesafioFundamentos\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\yago\\AppData\\Roaming\\NuGet\\NuGet.Config",
