@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "trilha-net8-fundamentos-desafio/1.0.0": {
+        "runtime": {
+          "trilha-net8-fundamentos-desafio.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "trilha-net8-fundamentos-desafio/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
